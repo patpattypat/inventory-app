@@ -431,5 +431,7 @@ MIT License - feel free to use this for your own collections!
 For issues or questions, please consult the documentation or examine the source code.
 
 ---
+## Deplyoment
+Will at push on master automatically deploy
 
 **Built with passion for aviation and automotive history** ✈️ 🚗
